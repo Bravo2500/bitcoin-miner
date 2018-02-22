@@ -71,6 +71,9 @@ Returns a `Boolean` with **true** if the hash is lower than the target and vicev
 
 Print colored verification of the *hash* against the *target* on the console (the code shows another way to build the block header in javascript).
 
+# Donation
+
+Bitcoin: 1JpKyCj6edEunhTsQNumsL5JDR6dMSqav5
 
 ## Related
 
